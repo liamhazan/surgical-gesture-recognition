@@ -1,0 +1,7 @@
+,accuracy,f1
+fold0_['top']_S3D_not_pretrained,0.6191292405128479,0.5368437170982361
+"fold0_['top', 'side', 'kinematics']_S3D_not_pretrained",0.6467451453208923,0.5796054601669312
+fold0_['kinematics']_S3D,0.5992076992988586,0.4931502938270569
+fold0_['side']_S3D_not_pretrained,0.6657524704933167,0.6295458078384399
+"fold0_['side', 'top', 'kinematics']_S3D_early_fuse",0.6133775115013123,0.5609334707260132
+ensemble_single_modalities,0.5196739435195923,0.40767979621887207
